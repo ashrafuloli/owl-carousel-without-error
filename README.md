@@ -1,6 +1,6 @@
 # Owl Carousel v2.2.0
 
-###Load the required stylesheet and JS:
+### Load the required stylesheet and JS:
 ```js
 if (jQuery(".active-slider").length > 0){
   jQuery('.active-slider').owlCarousel({
